@@ -8,5 +8,6 @@
 3. git pull
 4. git fetch
 5. git branch
+6. git checkout
 
 
