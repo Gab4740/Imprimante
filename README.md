@@ -6,4 +6,7 @@
 1. git commit -m "message"
 2. git push
 3. git pull
+4. git fetch
+5. git branch
+
 
