@@ -3,11 +3,13 @@
 **Ce programme ne supporte pas les erreure de input!**
 
 ### Commande Git
-1. git commit -m "message"
-2. git push
-3. git pull
-4. git fetch
-5. git branch
-6. git checkout
+1. git init
+2. git add "nom du fichier dans le repertoire"
+3. git commit -m "message"
+4. git push
+5. git pull
+6. git fetch
+7. git branch
+8. git checkout
 
 
